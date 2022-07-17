@@ -7,3 +7,4 @@ JavaScript allows you to add interactivity to your pages. Common examples that y
 <BadgeLink badgeText='Read' colorScheme="yellow" href='https://javascript.info/'>The Modern JavaScript Tutorial</BadgeLink>
 <BadgeLink badgeText='Watch' href='https://youtu.be/hdI2bqOjy3c?t=2'>JavaScript Crash Course for Beginners</BadgeLink>
 <BadgeLink badgeText='Watch' href='https://youtu.be/P7t13SGytRk?t=22'>Build a Netflix Landing Page Clone with HTML, CSS & JS</BadgeLink>
+<BadgeLink badgeText='watch' href='https://www.youtube.com/watch?v=ER9SspLe4Hg&t=416s'>javascript course</badgeLink>
